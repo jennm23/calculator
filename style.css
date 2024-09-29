@@ -7,7 +7,7 @@ body {
     background-size: cover; 
 }
 
-#keys {
+#key {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 5px;
